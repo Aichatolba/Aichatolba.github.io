@@ -28,3 +28,5 @@
 ## Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=visual-history-of-nobel-prize-winners)](https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Kaggle-data-science-survey-Analysis)](https://github.com/AishaAhmedToulba/Kaggle-data-science-survey-Analysis)
