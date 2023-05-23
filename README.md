@@ -34,3 +34,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Analyzing-and-Visualizing-Covid-19-Data)](https://github.com/AishaAhmedToulba/Analyzing-and-Visualizing-Covid-19-Data)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Wrangling-and-visualizing-Musical-data-)](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=visual-history-of-nobel-prize-winners)](https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Kaggle-data-science-survey-Analysis)](https://github.com/AishaAhmedToulba/Kaggle-data-science-survey-Analysis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Analyzing-and-Visualizing-Covid-19-Data)](https://github.com/AishaAhmedToulba/Analyzing-and-Visualizing-Covid-19-Data)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AishaAhmedToulba&repo=Wrangling-and-visualizing-Musical-data-)](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-)
