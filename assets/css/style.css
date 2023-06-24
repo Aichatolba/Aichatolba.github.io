@@ -58,7 +58,7 @@
 }
 
 .angellist {
-  color: aqua;
+  color: grey;
 }
 
 .icon-btn:hover {
@@ -71,7 +71,7 @@
 }
 
 .angellist:hover {
-  background-color: grey;
+  background-color: Aqua;
 }
 
 .github:hover {
@@ -319,7 +319,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #8fd4e3 repeat;
   position: relative;
 }
 
