@@ -748,7 +748,7 @@ section .container {
 
 .portfolio #portfolio-flters li {
   cursor: pointer;
-  display: inline-block;
+  display: block; --inline-block
   padding: 8px 16px 10px 16px;
   font-size: 14px;
   font-weight: 600;
@@ -756,7 +756,7 @@ section .container {
   text-transform: uppercase;
   color: #fff;
   background: rgba(255, 255, 255, 0.1);
-  margin: 0 3px 10px 3px;
+  margin: 0;  -- 3px 10px 3px
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
 }
