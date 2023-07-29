@@ -809,8 +809,8 @@ section .container {
 .portfolio .portfolio-wrap .portfolio-info::before {
   display: inline-block;
   content: "";
-  width: 48px;
-  height: 48px;
+  width: auto;
+  height: auto;
   position: absolute;
   top: 35px;
   left: 35px;
@@ -823,8 +823,8 @@ section .container {
 .portfolio .portfolio-wrap .portfolio-info::after {
   display: inline-block;
   content: "";
-  width: 48px;
-  height: 48px;
+  width: auto;
+  height: auto;
   position: absolute;
   bottom: 35px;
   right: 35px;
@@ -883,8 +883,8 @@ section .container {
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
-  bottom: 15px;
-  right: 15px;
+  bottom: auto;
+  right: auto;
 }
 
 /*--------------------------------------------------------------
