@@ -807,7 +807,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-info::before {
-  display: block;
+  display: inline-block;
   content: "";
   width: 48px;
   height: 48px;
@@ -821,7 +821,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-info::after {
-  display: block;
+  display: inline-block;
   content: "";
   width: 48px;
   height: 48px;
