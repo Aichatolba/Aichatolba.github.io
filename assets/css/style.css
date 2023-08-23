@@ -800,7 +800,7 @@ section .container {
   text-align: center;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  display: flex;
+  display: inline-block;
   flex-direction: column;
   justify-content: center;
   align-items: center;
