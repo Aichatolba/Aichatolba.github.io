@@ -132,14 +132,26 @@
       layoutMode: 'fitRows'
     });
 
-    $('#portfolio-flters li').on('click', function() {
-      $("#portfolio-flters li").removeClass('filter-active');
-      $(this).addClass('filter-active');
+  $('#portfolio-flters li').on('click', function() {
+  $("#portfolio-flters li").removeClass('filter-active');
+  $(this).addClass('filter-active');
 
-      portfolioIsotope.isotope({
-        filter: $(this).data('filter')
-      });
-    });
+  var filters = $(this).data('filter').split(','); // Split the filter classes by comma
+  var filterSelector = '';
+
+  // Generate a filter selector for each class
+  filters.forEach(function(filter) {
+    filterSelector += filter.trim(); // Trim whitespace
+    if (filter !== filters[filters.length - 1]) {
+      filterSelector += ','; // Add comma between multiple filters
+    }
+  });
+
+  portfolioIsotope.isotope({
+    filter: filterSelector // Use the generated filter selector
+  });
+});
+
 
   });
 
