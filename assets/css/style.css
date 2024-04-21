@@ -745,6 +745,13 @@ section .container {
   background: #1c7d32;
 }
 
+#portfolio h5 {
+font-size: 17px;
+}
+#portfolio h4 {
+font-size: 17px;
+}
+
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
